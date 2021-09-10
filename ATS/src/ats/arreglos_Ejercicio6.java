@@ -13,7 +13,6 @@ public class arreglos_Ejercicio6 {
         for(int i=0;i<12;i++){
             System.out.println((i+1)+" Ingrese un numero");
             numeros[i]=consola.nextInt();
-        
         }
         System.out.println("Ingrese 12 numeros de la segunda tabla");
         for(int i=0;i<12;i++){

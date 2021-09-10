@@ -16,4 +16,4 @@ public class arreglos_Ejercicio1 {
             System.out.println(a);
         }
     }
-}
+}   

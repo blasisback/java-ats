@@ -13,7 +13,7 @@ public class arreglos_Ejercicio2 {
         }
         System.out.println("Imprimir los elementos del arreglo de manera inversa");
         for(int i=4;i>=0;i--){
-            System.out.println(edades[i]);
-        }
+            System.out.println(edades[i]
+                    {}
     }
 }

@@ -14,7 +14,7 @@ public class arreglos_Ejercicio9 {
             numeros[i]=consola.nextInt();
         }
         numero=numeros[9];
-        for (int i=8;i>=0;i--){
+        for (int i=8;i>=0;i-- ){
             numeros[i+1]=numeros[i];
         }
         numeros[0]=numero;

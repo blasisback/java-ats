@@ -19,7 +19,7 @@ public class arreglos_Ejercicio10 {
         System.out.println("Ingrese cuantas posiciones desea correr");
         posiciones= entrada.nextInt();
         
-        do  {  //repetimos el bucle for para mover posiciones de los numeros el numero de veces requeridas con un do while:::
+        do  {  
             ultimo=arreglo[9];
         
         for(int i=8; i>=0;i--){
